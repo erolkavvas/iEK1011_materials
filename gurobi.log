@@ -1,0 +1,276 @@
+
+Gurobi 7.0.2 (mac64, Python) logging started Mon Apr  2 10:46:56 2018
+
+Warning: Numeric variable name in LP file ('2PLS') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpZ5_aVg.lp
+Reading time = 0.03 seconds
+: 1047 rows, 2622 columns, 11788 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('2PLS') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpkfHocy.lp
+Reading time = 0.04 seconds
+: 1047 rows, 2622 columns, 11788 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('2PLS') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpEVTsfO.lp
+Reading time = 0.03 seconds
+: 1047 rows, 2622 columns, 11788 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('2PLS') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpzadTQH.lp
+Reading time = 0.02 seconds
+: 1047 rows, 2622 columns, 11788 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('2PLS') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpHGYr0y.lp
+Reading time = 0.02 seconds
+: 1047 rows, 2622 columns, 11788 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('2PLS') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpctOFem.lp
+Reading time = 0.02 seconds
+: 1047 rows, 2622 columns, 11788 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('3B_DASH_HydroxysteroidDehydrogenase') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpI3PLsw.lp
+Reading time = 0.01 seconds
+: 724 rows, 1876 columns, 7478 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+
+Gurobi 7.0.2 (mac64, Python) logging started Mon Apr  2 10:58:27 2018
+
+Warning: Numeric variable name in LP file ('2PLS') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpKB9Qmv.lp
+Reading time = 0.02 seconds
+: 1047 rows, 2622 columns, 11788 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('3B_DASH_HydroxysteroidDehydrogenase') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpKZG042.lp
+Reading time = 0.01 seconds
+: 724 rows, 1876 columns, 7478 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('2PLS') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpCmUH1N.lp
+Reading time = 0.02 seconds
+: 1047 rows, 2622 columns, 11788 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('3B_DASH_HydroxysteroidDehydrogenase') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpEykLeU.lp
+Reading time = 0.01 seconds
+: 724 rows, 1876 columns, 7478 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('2PLS') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpVhhSUb.lp
+Reading time = 0.02 seconds
+: 1047 rows, 2622 columns, 11788 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('3B_DASH_HydroxysteroidDehydrogenase') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpug9TED.lp
+Reading time = 0.01 seconds
+: 724 rows, 1876 columns, 7478 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('2PLS') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpWS97Z4.lp
+Reading time = 0.02 seconds
+: 1047 rows, 2622 columns, 11788 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('3B_DASH_HydroxysteroidDehydrogenase') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmp4Od3ak.lp
+Reading time = 0.01 seconds
+: 724 rows, 1876 columns, 7478 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('2PLS') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpd6KN2N.lp
+Reading time = 0.03 seconds
+: 1047 rows, 2622 columns, 11788 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('3B_DASH_HydroxysteroidDehydrogenase') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpGhS8ZV.lp
+Reading time = 0.02 seconds
+: 724 rows, 1876 columns, 7478 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('2PLS') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpF7OZ7Z.lp
+Reading time = 0.02 seconds
+: 1047 rows, 2622 columns, 11788 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('3B_DASH_HydroxysteroidDehydrogenase') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmp_BxhKo.lp
+Reading time = 0.01 seconds
+: 724 rows, 1876 columns, 7478 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('2PLS') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpeX3RGU.lp
+Reading time = 0.02 seconds
+: 1047 rows, 2622 columns, 11788 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('3B_DASH_HydroxysteroidDehydrogenase') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpkotjpG.lp
+Reading time = 0.01 seconds
+: 724 rows, 1876 columns, 7478 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('2PLS') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpdiJbie.lp
+Reading time = 0.02 seconds
+: 1047 rows, 2622 columns, 11788 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('3B_DASH_HydroxysteroidDehydrogenase') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmp15Wjyo.lp
+Reading time = 0.01 seconds
+: 724 rows, 1876 columns, 7478 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('2PLS') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpZfHZxE.lp
+Reading time = 0.01 seconds
+: 1047 rows, 2622 columns, 11788 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('3B_DASH_HydroxysteroidDehydrogenase') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpYyAWAc.lp
+Reading time = 0.01 seconds
+: 724 rows, 1876 columns, 7478 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('2PLS') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmp2ZKYJq.lp
+Reading time = 0.02 seconds
+: 1047 rows, 2622 columns, 11788 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
+Warning: Numeric variable name in LP file ('3B_DASH_HydroxysteroidDehydrogenase') - often the result
+         of a constant term in the left-hand side of a constraint.
+
+Read LP format model from file /var/folders/zc/pxfjwwys41qgfmrg47dhm90c0000gp/T/tmpO1RmpO.lp
+Reading time = 0.01 seconds
+: 724 rows, 1876 columns, 7478 nonzeros
+Changed value of parameter Method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter Presolve to 0
+   Prev: -1  Min: -1  Max: 2  Default: -1
