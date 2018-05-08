@@ -3,12 +3,12 @@ Repository for the unified, standardized, and updated model of Mycobacterium tub
 
 > Erol S. Kavvas, Y. Seif, JT. Yurkovich, C. Norsigian, S. Poudel, WW. Greenwald, S. Ghatak, BO. Palsson, JM. Monk. [Updated and standardized genome-scale reconstruction of Mycobacterium tuberculosis H37Rv, iEK1011, simulates flux states indicative of physiological conditions.](https://bmcsystbiol.biomedcentral.com/articles/10.1186/s12918-018-0557-y) BMC Systems Biology 2018 12:25_
 
-![alt text](https://github.com/erolkavvas/iEK1011_materials/blob/master/Figure3_revised.pdf "Logo Title Text 1")
+![alt text](https://github.com/erolkavvas/iEK1011_materials/blob/master/Figure3_revised.png "Logo Title Text 1")
 
 
 Installation
 ~~~~~~~~~~~~
-git clone https://github.com/erolkavvas/microbial_AMR_ML.git
+git clone https://github.com/erolkavvas/iEK1011_materials.git
 ~~~~~~~~~~~~
 
 ### Key scripts 
